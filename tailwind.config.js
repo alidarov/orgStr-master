@@ -6,6 +6,7 @@ module.exports = {
     './plugins/**/*.{js,ts}',
     './nuxt.config.{js,ts}',
   ],
+  important: true,
   theme: {
     extend: {
       colors: {
@@ -13,6 +14,7 @@ module.exports = {
         reg: '#333333',
         mainCol: '#014743',
         drop: '#F7F7F7',
+        titleSet: '#8A8A8A',
         lightBack: 'rgba(1, 71, 67, 0.15)',
       },
       boxShadow: {

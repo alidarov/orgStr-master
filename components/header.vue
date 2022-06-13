@@ -105,7 +105,7 @@
         </div>
       </div>
     </div>
-    <div class="fixed left-0 top-16 h-screen py-2 px-5 bg-header">
+    <div class="fixed left-0 top-16 h-screen py-2 px-5 bg-header z-40">
       <div class="my-5 hover:cursor-pointer">
         <img class="w-10 h-10" src="../assets/img/navigation.png" alt="" />
         <p class="text-center text-sm">ТОП</p>

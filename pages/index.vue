@@ -1,6 +1,6 @@
 <template>
   <div class="setArea">
     <Header />
-    <Nuxt />
+    <SecondVersion />
   </div>
 </template>

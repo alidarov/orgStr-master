@@ -1,0 +1,170 @@
+{
+  "orgStr": {
+    "id": "1",
+    "name": "Аман Ишмухамедов",
+    "title": "Президент",
+    "email": "baratov.a@applecity.kz",
+    "children": [
+      {
+        "id": "1",
+        "name": "Аман Ишмухамедов",
+        "title": "Президент",
+        "email": "baratov.a@applecity.kz",
+        "children": [
+          {
+            "id": "1",
+            "name": "Аман Ишмухамедов",
+            "title": "Президент",
+            "email": "baratov.a@applecity.kz",
+            "children": [
+              {
+                "id": "1",
+                "name": "Аман Ишмухамедов",
+                "title": "Президент",
+                "email": "baratov.a@applecity.kz",
+                "children": [
+                ]
+              },
+              {
+                "id": "2",
+                "name": "Аман Ишмухамедов",
+                "title": "Президент",
+                "email": "baratov.a@applecity.kz",
+                "children": [
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Аман Ишмухамедов",
+        "title": "Президент",
+        "email": "baratov.a@applecity.kz",
+        "children": [
+          {
+            "id": "1",
+            "name": "Аман Ишмухамедов",
+            "title": "Президент",
+            "email": "baratov.a@applecity.kz",
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Аман Ишмухамедов",
+        "title": "Президент",
+        "email": "baratov.a@applecity.kz",
+        "children": [
+          {
+            "id": "1",
+            "name": "Аман Ишмухамедов",
+            "title": "Президент",
+            "email": "baratov.a@applecity.kz",
+            "children": [
+              {
+                "id": "1",
+                "name": "Аман Ишмухамедов",
+                "title": "Президент",
+                "email": "baratov.a@applecity.kz",
+                "children": [
+                ]
+              },
+              {
+                "id": "2",
+                "name": "Аман Ишмухамедов",
+                "title": "Президент",
+                "email": "baratov.a@applecity.kz",
+                "children": [
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Аман Ишмухамедов",
+        "title": "Президент",
+        "email": "baratov.a@applecity.kz",
+        "children": [
+          {
+            "id": "1",
+            "name": "Аман Ишмухамедов",
+            "title": "Президент",
+            "email": "baratov.a@applecity.kz",
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Аман Ишмухамедов",
+        "title": "Президент",
+        "email": "baratov.a@applecity.kz",
+        "children": [
+          {
+            "id": "1",
+            "name": "Аман Ишмухамедов",
+            "title": "Президент",
+            "email": "baratov.a@applecity.kz",
+            "children": [
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Аман Ишмухамедов",
+        "title": "Президент",
+        "email": "baratov.a@applecity.kz",
+        "children": [
+          {
+            "id": "1",
+            "name": "Аман Ишмухамедов",
+            "title": "Президент",
+            "email": "baratov.a@applecity.kz",
+            "children": [
+            ]
+          },
+          {
+            "id": "2",
+            "name": "Аман Ишмухамедов",
+            "title": "Президент",
+            "email": "baratov.a@applecity.kz",
+            "children": [
+            ]
+          },
+          {
+            "id": "3",
+            "name": "Аман Ишмухамедов",
+            "title": "Президент",
+            "email": "baratov.a@applecity.kz",
+            "children": [
+              {
+                "id": "1",
+                "name": "Аман Ишмухамедов",
+                "title": "Президент",
+                "email": "baratov.a@applecity.kz",
+                "children": [
+                ]
+              },
+              {
+                "id": "2",
+                "name": "Аман Ишмухамедов",
+                "title": "Президент",
+                "email": "baratov.a@applecity.kz",
+                "children": [
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
